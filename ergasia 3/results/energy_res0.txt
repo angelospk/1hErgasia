@@ -1,0 +1,4 @@
+Reading simulation time from: results_assoc0.txt
+Reading simulation time from: ../../spec_results/L2_assoc_spec_bzip2_0/stats.txt
+leakage: 1.153140 W, dynamic: 0.268511 W and runtime: 0.262355 sec
+energy is 372.977248 mJ
